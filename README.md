@@ -1,4 +1,4 @@
-# Unit 4 Homework Assignment: A Whale Off the Port(folio)
+# A Whale Off the Port(folio)
 
 ![Portfolio Analysis](Images/portfolio-analysis.png)
 
@@ -206,6 +206,3 @@ Harold is ecstatic that you were able to help him prove that the algorithmic tra
 
 * Be well commented with concise, relevant notes that other developers can understand. (10 points)
 
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
